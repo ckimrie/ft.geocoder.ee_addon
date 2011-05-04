@@ -1,9 +1,9 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Geocoder_ft extends EE_Fieldtype {
+class Mosogeocoder_ft extends EE_Fieldtype {
 
 	var $info = array(
-		'name'		=> 'Geocoder',
+		'name'		=> 'mosoGeocoder',
 		'version'	=> '1.0'
 	);
 	
