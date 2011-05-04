@@ -1,0 +1,43 @@
+h1. moreGeocoder
+
+Provides an ExpressionEngine 2 publish form address field that is geocoded (converted to Latitude and Longitude) for use in Google Maps.
+
+h2. Info
+
+Developed by Moresoda Design Ltd, "http://www.moresoda.co.uk":http://www.moresoda.co.uk
+
+h2. Requirements
+
+* ExpressionEngine 2.3 +
+
+h2. Browser Compatibility
+
+* Firefox 2+
+* Safari 2+
+* Chrome 3+
+* Opera 9+
+* Internet Explorer 7+
+
+h2. Installation
+
+# Copy the @system/expressionengine/third_party/geocoder@ folder to your @system/expressionengine/third_party/@ folder.
+# Go to _Add-ons&rarr;Fieldtypes_ in the ExpressionEngine control panel and install the fieldtype labelled _mosoGeocoder_.
+# You will now see _mosoGeocoder_ as a fieldtype option when creating custom fields
+
+
+
+
+
+
+
+h2. Change log
+
+h4. 1.1
+
+* Renamed fieldtype to _mosoGeocoder_
+* Rearranged add-on folder structure to reflect EE folder structure
+* Added README and LICENCE
+
+h4. 1.0
+
+Public release
