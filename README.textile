@@ -20,7 +20,7 @@ h2. Browser Compatibility
 
 h2. Installation
 
-# Copy the @system/expressionengine/third_party/geocoder@ folder to your @system/expressionengine/third_party/@ folder.
+# Copy the @system/expressionengine/third_party/mosogeocoder@ folder to your @system/expressionengine/third_party/@ folder.
 # Go to _Add-ons&rarr;Fieldtypes_ in the ExpressionEngine control panel and install the fieldtype labelled _mosoGeocoder_.
 # You will now see _mosoGeocoder_ as a fieldtype option when creating custom fields
 
