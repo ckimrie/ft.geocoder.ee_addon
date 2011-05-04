@@ -4,7 +4,7 @@ class Mosogeocoder_ft extends EE_Fieldtype {
 
 	var $info = array(
 		'name'		=> 'mosoGeocoder',
-		'version'	=> '1.0'
+		'version'	=> '1.1'
 	);
 	
 	var $api_address = 'http://maps.googleapis.com/maps/api/geocode/json?address=';
