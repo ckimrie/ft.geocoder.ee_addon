@@ -1,4 +1,4 @@
-!http://moresoda.co.uk/external_assets/github/moresoda-logo.png(moresoda)!:http://moresoa.co.uk
+!http://moresoda.co.uk/external_assets/github/moresoda-logo.png(moresoda)!:http://moresoda.co.uk
 
 h1. moreGeocoder
 
@@ -6,7 +6,7 @@ Provides an ExpressionEngine 2 publish form address field that is geocoded (conv
 
 h2. Info
 
-Developed by Moresoda Design Ltd, "http://www.moresoda.co.uk":http://www.moresoda.co.uk
+Developed by Moresoda Design Ltd, "http://moresoda.co.uk":http://moresoda.co.uk
 
 h2. Requirements
 
