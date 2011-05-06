@@ -1,3 +1,5 @@
+!http://moresoda.co.uk/external_assets/github/moresoda-logo.png(moresoda)!:http://moresoa.co.uk
+
 h1. moreGeocoder
 
 Provides an ExpressionEngine 2 publish form address field that is geocoded (converted to Latitude and Longitude) for use in Google Maps.
