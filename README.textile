@@ -34,6 +34,10 @@ h2. Installation
 
 h2. Change log
 
+h4. 1.2
+
+* Added failsafe for dealing with blank input data
+
 h4. 1.1
 
 * Renamed fieldtype to _mosoGeocoder_

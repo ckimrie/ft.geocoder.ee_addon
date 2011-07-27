@@ -4,7 +4,7 @@ class Mosogeocoder_ft extends EE_Fieldtype {
 
 	var $info = array(
 		'name'		=> 'mosoGeocoder',
-		'version'	=> '1.1'
+		'version'	=> '1.2'
 	);
 	
 	var $api_address = 'http://maps.googleapis.com/maps/api/geocode/json?address=';
@@ -148,6 +148,8 @@ class Mosogeocoder_ft extends EE_Fieldtype {
 	*/
 	public function save($str)
 	{
+		if(!$str) return NULL;
+		
 		$url_str = urlencode($str);
 
 		//If you want an extended data set, change the output to "xml" instead of csv
